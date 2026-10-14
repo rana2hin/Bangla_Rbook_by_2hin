@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: পরিসংখ্যানিক প্রোগ্রামিং
+  structure:
+    - type: space
+      key: space-1
+      title: পরিসংখ্যানিক প্রোগ্রামিং
+      path: code-with-tuhin
+      default: true
+      content:
+        directory: ./code-with-tuhin
